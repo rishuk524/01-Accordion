@@ -8,7 +8,7 @@ Assigment 1
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Project-1**
+# **Project-1** [Live Link](https://javascriptproject-1.netlify.app/)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about for each loop
